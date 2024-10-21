@@ -8,6 +8,9 @@ body {
   color: aliceblue;
   width: 100%;
   min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   background: rgb(34, 193, 195);
   background: linear-gradient(
     183deg,
